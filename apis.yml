@@ -36,6 +36,9 @@ description: >-
   website (2ndaddress.com) is no longer operational, so this profile is an identity
   record with no API artifacts to enrich.
 url: https://raw.githubusercontent.com/api-evangelist/2nd-address/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "The company never published a public API or developer program, and its website (2ndaddress.com) is no longer operational, so this profile is an identity record with no API artifacts to enrich."
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
