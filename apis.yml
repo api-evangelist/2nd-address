@@ -57,7 +57,7 @@ created: '2026-07-17'
 modified: '2026-07-17'
 tags:
 - Company
-- Real-Estate
+- Real Estate
 - Corporate Housing
 - Furnished Rentals
 - Marketplace
@@ -73,6 +73,7 @@ tags_raw:
 - Travel
 - Property Management
 - Inactive
+- Real-Estate
 apis: []
 maintainers:
 - FN: Kin Lane
